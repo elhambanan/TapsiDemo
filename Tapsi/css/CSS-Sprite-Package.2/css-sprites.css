@@ -1,0 +1,20 @@
+.css-sprite-logo1 {
+  background: url("css-sprite-combined.2.png") 0px -0px;
+  width: 136px;
+  height: 155px;
+  display: inline-block;
+}
+
+.css-sprite-enemad {
+  background: url("css-sprite-combined.2.png") -136px -19px;
+  width: 125px;
+  height: 136px;
+  display: inline-block;
+}
+
+.css-sprite-logo {
+  background: url("css-sprite-combined.2.png") -261px -5px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
